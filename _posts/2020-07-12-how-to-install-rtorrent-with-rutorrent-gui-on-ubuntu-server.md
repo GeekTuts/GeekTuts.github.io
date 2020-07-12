@@ -1,20 +1,22 @@
 ---
 date: 2020-07-12T23:48:05.000Z
 layout: post
-title: How to Install rtorrent+rutorrent The Easy Way!
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: How to Install rtorrent with rutorrent GUI on Ubuntu The Easy Way!
+subtitle: 'This guide is helpful for every type of experienced people'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  This Tutorial will guide you to install seedbox on Ubuntu Server.
+  Tutorial will guide to install rtorrent/libtorrent, rutorrent, etc.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/GeekTuts/GeekTuts.github.io/master/assets/img/uploads/rutorrentwebui.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://github.com/GeekTuts/GeekTuts.github.io/blob/master/assets/img/uploads/rutorrentwebui.png?raw=true
 category: blog
 tags:
-  - welcome
-  - blog
-author: thiagorossener
+  - ubuntu
+  - seedbox
+  - rtorrent
+  - rutorrent
+author: AmreshSinha
 paginate: true
 ---
 # Getting Started
