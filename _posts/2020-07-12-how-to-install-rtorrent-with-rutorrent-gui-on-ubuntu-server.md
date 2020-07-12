@@ -19,7 +19,7 @@ tags:
 author: AmreshSinha
 paginate: true
 ---
-**Before Moving Forward I want to think one of my friend <span style="color:blue">GM</span> for checking the Wordings and Authenticity of the Post!
+**Before Moving Forward I want to thank one of my friend <span style="color:blue">GM</span> for checking the Wordings and Authenticity of the Post!**
 
 # Getting Started
 The Script which is used here for installtion of rtorrent+rutorrent is rtinst and its repo can be found on github here: [rtinst](https://github.com/arakasi72/rtinst)
