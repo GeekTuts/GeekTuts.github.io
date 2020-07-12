@@ -19,6 +19,8 @@ tags:
 author: AmreshSinha
 paginate: true
 ---
+**Before Moving Forward I want to think one of my friend <span style="color:blue">GM</span> for checking the Wordings and Authenticity of the Post!
+
 # Getting Started
 The Script which is used here for installtion of rtorrent+rutorrent is rtinst and its repo can be found on github here: [rtinst](https://github.com/arakasi72/rtinst)
 
@@ -43,7 +45,7 @@ Replace root with your server username and Ipaddress with your server IP (ipv4)
 Enter your IP Address in the required field and your Username and then fire it up!  
 It will ask for your User Password of the server.  
  Type it and Press Enter!  
-Whoalla! You Just logged into your Server!
+Voila! You Just logged into your Server!
 
 ### Step-2: Switch to Sudo
 This is required as the script we are going to install requires sudo access.  
