@@ -23,7 +23,7 @@ paginate: true
 The Script which is used here for installtion of rtorrent+rutorrent is rtinst and its repo can be found on github here: [rtinst](https://github.com/arakasi72/rtinst)
 
 ---
-### Requirements  
+   ### Requirements  
 1) Ubuntu Server (16, 17, 18, 19) [20 Not Tested!]
 2) Any SSH client (Putty recommended!) [If you are a Mac or Linux user then no need as you can then login through your terminal]
 3) If we need any other requirements then it will be mentioned in the procedure steps :)
@@ -31,9 +31,8 @@ The Script which is used here for installtion of rtorrent+rutorrent is rtinst an
 **Note: Wherever you see a code to type then type the command which is after "~APS_MAC->$" or "~root@IPaddress:-$"**  
 
 ---
-
-# Let's Start!
-### Step-1: Login To your Server
+   # Let's Start!
+   ### Step-1: Login To your Server
 ▐ Log in on a **Mac or Linux**  
 ```
 ~APS_MAC->$ ssh root@IPaddress
@@ -133,15 +132,14 @@ Now If everything went good then we can reboot our server by the following comma
 #### We Just Installed a seedbox! Now we can access it after the reboot by the address we just got in the above command result of rtinst installation in STEP 4!
 
 ---
-
-### Ohh Wait! Did you heard of any new update of rtorrent!? Yes?
+   ### Ohh Wait! Did you heard of any new update of rtorrent!? Yes?
 Then Install it with this command:  
 
 ```
 ~root@IPaddress:-$ sudo rtupdate
 ```
 
-### Ohh Rutorrent too !?
+   ### Ohh Rutorrent too !?
 Then Install it with this command:  
 
 ```
