@@ -23,7 +23,6 @@ paginate: true
 The Script which is used here for installtion of rtorrent+rutorrent is rtinst and its repo can be found on github here: [rtinst](https://github.com/arakasi72/rtinst)
 
 ---
-
 ### Requirements  
 1) Ubuntu Server (16, 17, 18, 19) [20 Not Tested!]
 2) Any SSH client (Putty recommended!) [If you are a Mac or Linux user then no need as you can then login through your terminal]
@@ -33,7 +32,7 @@ The Script which is used here for installtion of rtorrent+rutorrent is rtinst an
 
 ---
 
-#Let's Start!
+# Let's Start!
 ### Step-1: Login To your Server
 ▐ Log in on a **Mac or Linux**  
 ```
@@ -71,11 +70,11 @@ Now let's move forward to step-4 from which the main installation will get start
 Before moving forward let's get ourselves clear with the script. It's a pure Shell Script bundled to install many seedbox scripts like rtorrent, deluge, couchpotato, etc!  
 The rtinst script installs and configures (which we are going to install here):  
 
-***vsftpd*** (ftp server)
-***libTorrent/rTorrent/xmlrpc-c***
-***ruTorrent***
-***NGINX*** (web server)
-***autodl-irssi*** (It's a plugin for irssi that monitors IRC announce channels and downloads torrent files based on user-defined filters
+***vsftpd*** (ftp server)  
+***libTorrent/rTorrent/xmlrpc-c***  
+***ruTorrent***  
+***NGINX*** (web server)  
+***autodl-irssi*** (It's a plugin for irssi that monitors IRC announce channels and downloads torrent files based on user-defined filters  
 ***Webmin*** (Optional but **recommended!**)  
 
 Okay So Now as we are cleared with the script, so, we can move forward to installation!  
@@ -98,15 +97,15 @@ It will look like:
 
 You Maybe  thinking what these --log, --webpass, etc means...  
 
-> -d, --dload : Enable http download of content
- -l, --log : Enables logging to ~/rtinst.log
- -t, --ssh-default : As explained above it will tell rtinst to keep the ssh port to default port 22
- -r, --rutorrent-stable : Installs 'stable' rutorrent as opposed to the latest master build, this is default setting, from rtinst v1.4
- -m, --rutorrent-master : Installs the latest master build of rutorrent as opposed to latest 'stable' release, this is the default setting prior to rtinst v1.4, and this option is only available from v1.4
- -y, --force-yes : Will automatically accept the IP address as detected, will automatically skip rtorrent/libtorrent install if an existing installation is detected, and will generate a random password for rutorrent, unless -w, --webpass is also used to specify a web password.
- -u, --user : names the user to be primary rtorrent user, can be an existing user or script will create a new user, for example if the user name is sally then the option would be '-u sally'
- -p, --password : Sets the unix password, this only applies if a new user is created. It will not change the password of an existing user.
- -w, --webpass : Sets the web password for the user. This is the password used by rutorrent, and is not the same as the unix account password
+> -d, --dload : Enable http download of content  
+ -l, --log : Enables logging to ~/rtinst.log  
+ -t, --ssh-default : As explained above it will tell rtinst to keep the ssh port to default port 22  
+ -r, --rutorrent-stable : Installs 'stable' rutorrent as opposed to the latest master build, this is default setting, from rtinst v1.4  
+ -m, --rutorrent-master : Installs the latest master build of rutorrent as opposed to latest 'stable' release, this is the default setting prior to rtinst v1.4, and this option is only available from v1.4  
+ -y, --force-yes : Will automatically accept the IP address as detected, will automatically skip rtorrent/libtorrent install if an existing installation is detected, and will generate a random password for rutorrent, unless -w, --webpass is also used to specify a web password.  
+ -u, --user : names the user to be primary rtorrent user, can be an existing user or script will create a new user, for example if the user name is sally then the option would be '-u sally'  
+ -p, --password : Sets the unix password, this only applies if a new user is created. It will not change the password of an existing user.  
+ -w, --webpass : Sets the web password for the user. This is the password used by rutorrent, and is not the same as the unix account password  
 
 Further installation techniques can be found here: [rtinst](https://github.com/arakasi72/rtinst/)
 
