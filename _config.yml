@@ -1,13 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: GeekTuts
+title: GeekTuts | Happy Geeking!
+description: A blog made to help all those Coder, Students, Techincal Peeps, Geeks out there who wants try new scripts and many other things everyday!.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - coding
+  - linux
+  - windows
+  - installation
+  - geek
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
@@ -24,7 +24,7 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: AmreshSinha
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
