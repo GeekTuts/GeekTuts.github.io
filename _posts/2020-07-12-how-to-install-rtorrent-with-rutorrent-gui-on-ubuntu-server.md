@@ -26,9 +26,9 @@ The Script which is used here for installtion of rtorrent+rutorrent is rtinst an
 
 ---
 ### Requirements  
-1) Ubuntu Server (16, 17, 18, 19) [20 Not Tested!]
-2) Any SSH client (Putty recommended!) [If you are a Mac or Linux user then no need as you can then login through your terminal]
-3) If we need any other requirements then it will be mentioned in the procedure steps :)
+1) Ubuntu Server (16, 17, 18, 19) [20 Not Tested!]  
+2) Any SSH client (Putty recommended!) [If you are a Mac or Linux user then no need as you can then login through your terminal]  
+3) If we need any other requirements then it will be mentioned in the procedure steps :)  
 
 **Note: Wherever you see a code to type then type the command which is after "~APS_MAC->$" or "~root@IPaddress:-$"**  
 
@@ -41,7 +41,7 @@ The Script which is used here for installtion of rtorrent+rutorrent is rtinst an
 ```  
 Replace root with your server username and Ipaddress with your server IP (ipv4)
 
-▐ Log In through Putty on **Windows** (Download the latest release from [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) )  
+▐ Log In through Putty on **Windows** (Download latest release from [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) )  
 Enter your IP Address in the required field and your Username and then fire it up!  
 It will ask for your User Password of the server.  
  Type it and Press Enter!  
