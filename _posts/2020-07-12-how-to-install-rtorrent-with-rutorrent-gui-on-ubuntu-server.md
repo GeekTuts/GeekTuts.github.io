@@ -7,10 +7,10 @@ description: >-
   This Tutorial will guide you to install seedbox on Ubuntu Server.
   Tutorial will guide to install rtorrent/libtorrent, rutorrent, etc.
 image: >-
-  https://raw.githubusercontent.com/GeekTuts/GeekTuts.github.io/master/assets/img/uploads/rutorrentwebui.png
+  https://user-images.githubusercontent.com/68192547/87272749-cf777c00-c4f4-11ea-9e0e-89f080522958.png
 optimized_image: >-
-  https://github.com/GeekTuts/GeekTuts.github.io/blob/master/assets/img/uploads/rutorrentwebui.png?raw=true
-category: blog
+  https://user-images.githubusercontent.com/68192547/87272749-cf777c00-c4f4-11ea-9e0e-89f080522958.png
+category: tutorial
 tags:
   - ubuntu
   - seedbox
