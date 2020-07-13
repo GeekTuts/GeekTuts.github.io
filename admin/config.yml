@@ -1,8 +1,6 @@
 backend:
   name: git-gateway
-  repo: GeekTuts/GeekTuts.github.io
   branch: master
-  site_domain: lucid-brahmagupta-72230e.netlify.com
 publish_mode: editorial_workflow
 media_folder: "assets/img/uploads"
 collections:
