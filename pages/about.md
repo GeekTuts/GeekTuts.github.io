@@ -11,10 +11,16 @@ permalink: /about/
 
 Hey! Amresh here! Came Here wondering who I am?  
 I am a  
-* Human Being
+
+* Human Being  
+
 And I am  
+
 * Trying to understand Universe
+
 And In Free Time  
+
 * I like doing geeking out codes,scripts, technologies, etc!  
+
 Find me on [Github](https://github.com/AmreshSinha/)
 
