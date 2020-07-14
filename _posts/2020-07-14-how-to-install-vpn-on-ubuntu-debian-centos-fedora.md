@@ -29,6 +29,7 @@ Wait Wait! Before proceeding further I want to tell you about some freaking-awes
 > [Hostwinds](https://www.hostwinds.com/vps/)
   * Pricing Starts from: $4.49/month(managed) or $5.17(managed)  
   * It has few data-centers: In Seattle, Dallas, Amsterdam  
+  
   [VPSServer](https://www.vpsserver.com/)  
   * Pricing Starts from: $4.99/month(managed)
   * It has many data-centers: In USA, Europe, Asia, Australia 
