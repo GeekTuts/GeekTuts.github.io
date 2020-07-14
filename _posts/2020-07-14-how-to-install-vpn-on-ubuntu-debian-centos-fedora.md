@@ -1,16 +1,16 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2020-07-14T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the Real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: How to Install OpenVPN on Ubuntu, Debian, CentOS, Fedora
+subtitle: 'Install OpenVPN on Ubuntu, Debian, CentOS, Fedora'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  This tutorial will guide you in setting up your own VPN.
+  Installation of OpenVPN on Ubuntu, Debian, CentOS, Fedora.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+category: tutorial
 tags:
   - welcome
   - blog
