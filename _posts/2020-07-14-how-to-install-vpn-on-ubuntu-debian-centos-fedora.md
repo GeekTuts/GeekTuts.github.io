@@ -21,12 +21,17 @@ author: AmreshSinha
 paginate: true
 ---
 # Why We Need a VPN?
-Nowadays, cnesorship is becoming a pain for many normal web surfers, devolopers, etc.
+Nowadays, censorship is becoming a pain for many normal web surfers, devolopers, etc.
 Simple explanation to VPN is that it removes censorship!  
-And if you want to dig more deep in its definition then visit this wikipedia page: [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
+And if you want to dig more deep in its definition then visit this wikipedia page: [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)  
+# Getting Started
+Wait Wait! Before proceeding further I want to tell you about some freaking-awesome but cheap VPS providers which allows installation of VPN on their VPSes.
+> [Hostwinds](https://www.hostwinds.com/vps/)
+  * Pricing Starts from: $4.49/month(managed) or $5.17(managed)  
+  * It has few data-centers: In Seattle, Dallas, Amsterdam  
+  [VPSServer](https://www.vpsserver.com/)  
+  * Pricing Starts from: $4.99/month(managed)
+  * It has many data-centers: In USA, Europe, Asia, Australia 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 ## Inline HTML elements
