@@ -22,5 +22,5 @@ And In Free Time
 
 * I like doing geeking out codes,scripts, technologies, etc!  
 
-Find me on [Github](https://github.com/AmreshSinha/)
-
+Find me on [Github](https://github.com/AmreshSinha/)  
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N81XBBE)
