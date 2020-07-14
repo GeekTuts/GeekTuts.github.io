@@ -26,7 +26,41 @@ Simple explanation to VPN is that it removes censorship!
 And if you want to dig more deep in its definition then visit this wikipedia page: [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)  
 # Getting Started
 Wait Wait! Before proceeding further I want to tell you about some freaking-awesome but cheap VPS providers which allows installation of VPN on their VPSes.
-> [Hostwinds](https://www.hostwinds.com/vps/)
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Pricing</th>
+      <th>Datacenters</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Totals</td>
+      <td>21</td>
+      <td>23</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>[<img src="https://www.hostingadvice.com/images/uploads/2017/09/hostwinds.png?width=175&height=55">](https://hostwinds.com/)</td>
+      <td>$4.49/month(managed)  
+        $5.17(managed)</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
+[Hostwinds](https://www.hostwinds.com/vps/)
   * Pricing Starts from: $4.49/month(managed) or $5.17(managed)  
   * It has few data-centers: In Seattle, Dallas, Amsterdam <br />
  [VPSServer](https://www.vpsserver.com/)  
