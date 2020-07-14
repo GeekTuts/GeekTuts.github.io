@@ -28,8 +28,7 @@ And if you want to dig more deep in its definition then visit this wikipedia pag
 Wait Wait! Before proceeding further I want to tell you about some freaking-awesome but cheap VPS providers which allows installation of VPN on their VPSes.
 > [Hostwinds](https://www.hostwinds.com/vps/)
   * Pricing Starts from: $4.49/month(managed) or $5.17(managed)  
-  * It has few data-centers: In Seattle, Dallas, Amsterdam  
-  
+  * It has few data-centers: In Seattle, Dallas, Amsterdam        
   [VPSServer](https://www.vpsserver.com/)  
   * Pricing Starts from: $4.99/month(managed)
   * It has many data-centers: In USA, Europe, Asia, Australia 
