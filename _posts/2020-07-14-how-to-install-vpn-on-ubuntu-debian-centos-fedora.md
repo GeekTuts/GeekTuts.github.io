@@ -12,12 +12,18 @@ optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: tutorial
 tags:
-  - welcome
-  - blog
-author: thiagorossener
+  - ubuntu
+  - debian
+  - centos
+  - fedora
+  - openvpn
+author: AmreshSinha     
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+# Why We Need a VPN?
+Nowadays, cnesorship is becoming a pain for many normal web surfers, devolopers, etc.
+Simple explanation to VPN is that it removes censorship!  
+And if you want to dig more deep in its definition then visit this wikipedia page: [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
