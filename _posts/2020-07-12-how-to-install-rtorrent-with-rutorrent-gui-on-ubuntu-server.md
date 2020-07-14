@@ -147,8 +147,6 @@ Then Install it with this command:
 ```
 ~root@IPaddress:-$ sudo rutupgrade
 ```
-
-
 ### Have Any Doubt? Or Want to show your installation results? Then Feel Free to comment below! ;)
 
 
